@@ -1,6 +1,6 @@
 # COVID-Shanghai
 
-- Demo link: https://tienzhao.github.io/covid-shanghai/demo.html
+- Demo link: https://hotfarmerzhang.github.io/yeyudiantai/demo.html
   - Click the 'Plot' button on the right, and see how COVID is spreading around us.
 - Data updated on the evening of March 10, 2022
 - Workflow:
